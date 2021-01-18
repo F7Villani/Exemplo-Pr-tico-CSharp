@@ -6,10 +6,10 @@ namespace Desafio_DotNET_Coxinha
     {
         static void Main()
         {
-            decimal H, P, averageRounded, average;
+            double H, P, average;
             string[] line = Console.ReadLine().Split(" ");
-            decimal.TryParse(line[0], out H);
-            decimal.TryParse(line[1], out P);
+            double.TryParse(line[0], out H);
+            double.TryParse(line[1], out P);
             if(H<0)
             {
                 throw new Exception();
@@ -23,8 +23,7 @@ namespace Desafio_DotNET_Coxinha
                 throw new DivideByZeroException();
             }
             average = H/P;
-            averageRounded = (Math.Round(average, 2));   
-            Console.WriteLine(averageRounded);
+            Console.WriteLine(average.ToString("F2"));
         }
     }
 }
