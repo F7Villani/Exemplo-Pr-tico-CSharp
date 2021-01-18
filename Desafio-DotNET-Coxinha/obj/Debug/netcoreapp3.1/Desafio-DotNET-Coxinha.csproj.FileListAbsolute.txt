@@ -1,0 +1,13 @@
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\obj\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.csprojAssemblyReference.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\obj\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.AssemblyInfoInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\obj\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.AssemblyInfo.cs
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\obj\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.csproj.CoreCompileInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\bin\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.exe
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\bin\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.deps.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\bin\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.runtimeconfig.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\bin\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.runtimeconfig.dev.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\bin\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\bin\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\obj\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\obj\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-Coxinha\obj\Debug\netcoreapp3.1\Desafio-DotNET-Coxinha.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\obj\Debug\netcoreapp3.1\Desafio-DotNET.csprojAssemblyReference.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\obj\Debug\netcoreapp3.1\Desafio-DotNET.AssemblyInfoInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\obj\Debug\netcoreapp3.1\Desafio-DotNET.AssemblyInfo.cs
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\obj\Debug\netcoreapp3.1\Desafio-DotNET.csproj.CoreCompileInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\bin\Debug\netcoreapp3.1\Desafio-DotNET.exe
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\bin\Debug\netcoreapp3.1\Desafio-DotNET.deps.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\bin\Debug\netcoreapp3.1\Desafio-DotNET.runtimeconfig.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\bin\Debug\netcoreapp3.1\Desafio-DotNET.runtimeconfig.dev.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\bin\Debug\netcoreapp3.1\Desafio-DotNET.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\bin\Debug\netcoreapp3.1\Desafio-DotNET.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\obj\Debug\netcoreapp3.1\Desafio-DotNET.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\obj\Debug\netcoreapp3.1\Desafio-DotNET.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET\obj\Debug\netcoreapp3.1\Desafio-DotNET.genruntimeconfig.cache
