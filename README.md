@@ -1,2 +1,2 @@
 # Exemplo-Pratico-CSharp
- Exercicios realizados durante o Bootcamp de .NET e C#, pela Digital Innovation One
+ Exercíciose e desafios realizados durante o Bootcamp de Fundamentos do .NET e C#, pela Digital Innovation One
