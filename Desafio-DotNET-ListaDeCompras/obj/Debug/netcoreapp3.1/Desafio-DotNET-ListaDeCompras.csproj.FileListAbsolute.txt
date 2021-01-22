@@ -1,0 +1,13 @@
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\bin\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.exe
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\bin\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.deps.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\bin\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.runtimeconfig.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\bin\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.runtimeconfig.dev.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\bin\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\bin\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\obj\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.csprojAssemblyReference.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\obj\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.AssemblyInfoInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\obj\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.AssemblyInfo.cs
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\obj\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\obj\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\obj\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ListaDeCompras\obj\Debug\netcoreapp3.1\Desafio-DotNET-ListaDeCompras.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\bin\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.exe
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\bin\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.deps.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\bin\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.runtimeconfig.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\bin\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.runtimeconfig.dev.json
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\bin\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\bin\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\obj\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.csprojAssemblyReference.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\obj\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.AssemblyInfoInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\obj\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.AssemblyInfo.cs
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\obj\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.csproj.CoreCompileInputs.cache
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\obj\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.dll
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\obj\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.pdb
+C:\Users\ro_sk\OneDrive - Instituto Maua de Tecnologia\Documentos\Repositórios\Exemplo-Prático-CSharp\Desafio-DotNET-ValidacaoSenha\obj\Debug\netcoreapp3.1\Desafio-DotNET-ValidacaoSenha.genruntimeconfig.cache
